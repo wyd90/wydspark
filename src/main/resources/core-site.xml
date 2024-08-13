@@ -1,6 +1,6 @@
 <configuration>
     <property>
         <name>fs.defaultFS</name>
-        <value>hdfs://hadoopmaster:8020/</value>
+        <value>hdfs://hot_fix:8020/</value>
     </property>
 </configuration>
